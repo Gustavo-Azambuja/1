@@ -7,3 +7,4 @@ dias = idade
 print(f'{int(anos)} anos(s)')
 print(f'{int(meses)} mes(es)')
 print(f'{int(dias)} dia(s)')
+#Calculo pega na internet
